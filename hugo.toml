@@ -1,0 +1,4 @@
+baseURL = 'https://vinceallio.com/onwork/'
+languageCode = 'en-us'
+title = 'On Work - Vince Allio'
+theme = 'fluency'
