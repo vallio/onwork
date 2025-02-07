@@ -1,0 +1,41 @@
+baseURL: https://vinceallio.com/onwork/
+languageCode: = en-us
+title: On Work - Vince Allio
+theme: fluency
+
+pygmentsUseClasses: true # enable theme-defined highlight style
+pygmentsCodefences: true
+
+taxonomies:
+  tag: "tags"
+
+
+menu:
+  main:
+    - identifier: posts
+      name: posts
+      url: posts/
+      weight: 1
+    - identifier: tags
+      name: tags
+      url: tags/
+      weight: 2
+    - identifier: about
+      name: about
+      url: about/
+      weight: 3  # order by asc
+  footer:
+    - identifier: twitter
+      url: "https://x.com/vallio"
+      name: X (Twitter)
+    - identifier: linkedin
+      url: "https://www.linkedin.com/in/vince-allio/"
+      name: LinkedIn
+  
+params:
+  googleAnalytics: "G-02DKSDRDPD"
+  pageSize:
+    index: 5
+    list: 10
+    terms: 60
+

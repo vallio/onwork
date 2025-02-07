@@ -1,0 +1,14 @@
++++
+title = 'The Introvert Diaries - Share Conference'
+date = 2025-01-25
+draft = false
+tags = ["BofA", "IntrovertDiaries"]
+weight = 10
++++
+It is 1995 and I didn’t know what an introvert was even as I was looking at one in the mirror. I was debating on whether I should go to the conference’s evening activities. The conference was called “Share” and focused on IBM mainframe technologies. IBM and other vendors certainly had a presence and many informative sessions but the real value was the community. When I started as a VM/CMS system’s programmer I was handed a manual called “What mother never told you” by Marian Varian. It was given to me in an almost clandestine way for it was the book VM/CMS systems programmers learned the secret things IBM didn’t tell them or want them to know (mostly the former). 
+
+I wish I could remember the name of the evening activities. A very nerdy name. During the day, people kept asking me a variation of “are you coming to the party? You should come, it’s great”. So, with that I gathered my 29 year old courage and left for the venue. The venue turned out to be a mid size ball room. Large, rectangular, carpeted, white lighting. No disco ball. It was filled mostly with men. I saw 45 year olds with ponytails and unkempt beards everywhere I looked. I think I got two drink tickets which I used on diet cokes. There were tables for the different technologies spread around the room. I found the VM/CMS table. Walked up to it. Then past it. Then around. Then back to it. I saw someone I recognized, someone who worked for (or maybe was) a performance monitoring vendor. I actually spoke with him and then started asking technical questions. My form of small talk. He was nice at first but eventually said he wasn’t there to talk about work stuff and walked away. I lingered by the table for a bit, then walked away myself. Somehow I got into a conversation with two older men. One of them told me about the JCL singalong and walked away.. Older me would have picked up on the clue, but socially inept me followed them around like a puppy dog. Eventually, one of them just directly told me not to hang out with them. 
+
+JCL is short for Job Control Language and is how you submit batch jobs to IBM mainframes. I had done a little bit of that. A singalong seemed odd for such a language. But a singalong it was. Complete with songbooks. You can still find them [online](https://share.confex.com/share/125/webprogram/Handout/Session17616/17616%20Singalong%20session.pdf). It appealed to those it appealed to. Me, I watched the audience a bit and then backed out a side door. 
+
+I got back to my room understanding how awkward I was, relieved it was over, and glad I could say I went. The person looking in the mirror had long judged his shyness. Had felt it was a character flow. It would be years before he discovered it was a trait, not a deficit, and cut himself some slack.   

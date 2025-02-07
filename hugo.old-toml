@@ -2,3 +2,6 @@ baseURL = 'https://vinceallio.com/onwork/'
 languageCode = 'en-us'
 title = 'On Work - Vince Allio'
 theme = 'fluency'
+
+pygmentsUseClasses: true # enable theme-defined highlight style
+pygmentsCodefences: true
