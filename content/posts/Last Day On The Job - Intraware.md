@@ -2,7 +2,7 @@
 title = 'Last day on the job - Intraware'
 date = 2025-03-10
 draft = false
-tags = ["lastday", "InternetImage", "Intraware"]
+tags = ["lastday", "InternetImage", "Intraware", "Dot Bust"]
 weight = 10
 +++
 It’s late November 2000 and I’ve returned home from my first two week vacation maybe ever. These were the days when you were not always connected to work \- no email on my phone, no work text messages. I had landed at SFO from Beijing on a Sunday to be ready for work Monday morning. 
