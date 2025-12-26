@@ -3,7 +3,7 @@ title = '18 Years at Microsoft'
 date = 2024-12-20
 draft = false
 tags = ["Microsoft"]
-weight = 0
+weight = 10
 +++
 # 18 Years at Microsoft
 
