@@ -1,0 +1,30 @@
++++
+title = 'The Golf Course Years'
+date = 2026-05-22
+draft = false
+tags = ["Part Time"]
+weight = 10
++++
+
+When my father retired at 56, I remember he would play golf a couple of days a week and go on long bike rides on other days. I remember him in the TV room watching *The Newlywed Game*. At some point a father of a childhood friend asked if he’d be interested in working part time as a “starter” at a golf course. A “starter” is responsible for taking golf reservations, collecting the money, and organizing the first tee. A kind of cashier. After my dad was there for a while, he asked me if I wanted to be a starter too.
+
+I was an unemployed college student at the time having been fired from my last job. I could use the money. I loosely remember going up to the course and meeting the general manager Dave and Fred who ran the pro shop. Fred was the father of my dad’s childhood friend. I guess I passed and I was hired to help out a few days a week. Both Dave and Fred were older and a bit surly. Dave was married to the owner's daughter and was seemingly trying to prove himself worthy. Fred was golf royalty/legacy who ran a tight ship and would tease pro shop customers as “tire kickers” for never buying anything. 
+
+In my four years at the course, the lessons I learned about myself were the most valuable. More valuable than the pocket change I earned. The first lesson I learned wasn’t so profound \- if you want to be good at golf, play every day. The job gave me free access to the driving range and course and I played golf nearly every day. I got much, much better than the scuffling high school player I used to be. I got good enough I could try out and make my college golf team although not good enough that I would play in any match. I was horribly inconsistent. My younger brother who started at the course about the same time got good and consistent and by the time he was 15 was outplaying me by a significant margin. 
+
+Another lesson was that I don’t project much of a personality. This took me a little while to catch on too. A golfer would come up to the window to buy a bucket of range balls. Many were returning customers. Some would ask me if I was “new here” even after two years of serving them. I remember one who barely acknowledged me while I collected the $3.50 for a large bucket. I didn’t think much about it, that was how most of my transactions went. One day, I was off duty and hanging around the pro shop when the same man came to the window to buy a bucket. He smiled broadly and warmly said “Hi Bob” to the starter on duty and they exchanged small talk for a few minutes. I learned I was not like Bob. I didn’t smile and I didn’t small talk.
+
+There was a fair amount of down time in the pro shop. One day, I was playing nerf basketball with a teenager, Mark, who worked on the range. We were really going at it, driving past and through each other to make a basket. During one such play, the owner of the golf course walked in. He had taken a liking to me and had given me regular raises. I could see I had disappointed him. I apologized and he said nothing. I thought I would be fired. I’m not someone for whom “play” comes naturally and for the moment I found myself lost in it. To this day, on the rare occasions where I find myself lost in “play”, I find myself feeling giddy and guilty.  
+
+The golf course was largely a cash business. It would be easy enough to skim a few dollars off the top to pay for a movie ticket. But after my experience at the gas station, it was never a consideration. My integrity was earned. 
+
+I learned bosses didn’t always know the job. The owner who took a liking to me instituted a policy of “no refunds”. In theory, this made sense and I could see why the owner created the rule. People would pay their $10 and then go play, there was no need for refunds. But in practice, at least once a day on weekends, people would pay and then change their mind five minutes later when they saw the crowd or thought better about the expense. Since it was mostly a cash business, us starters could deal with the refunds by using the next paying customer's fees. The owner didn’t like that and didn’t understand the need for a refund. He understandably found it suspicious. Until a random day when he happened to be in the pro shop and I told a customer “no refunds” and the customer was outraged. The owner modified the rule on the spot.
+
+When I first started at the course, we had a mechanical cash register. Physical buttons that in hindsight were very satisfying to press. But, hey, this was 1987 and it was time to modernize. The golf course got electronic cash registers. The various buttons needed to be set up for our specific pricing and whatnot. Fred didn’t have a clue. My dad, not the most handy man, also gave up. To me, it was like programming a VCR and I was able to set it up. It was one of the few moments where I felt my dad was proud of me. He would mention every now and then for the next 30 years. He came to see my Computer Science studies as a skill. He valued skills, like building things, over other kinds of work.
+
+After I graduated from college, I continued to work at the golf course until I found my first “real” job at Bank of America. For years afterward, I would have a recurring dream of working at the golf course one last time. The owner would be there. Bob would be there. Fred would be there. My dad would be there. Then I’d remember I had a new job and a panic would set in. Then I’d hurry to leave but before exiting the pro shop back door, I’d wake up.
+
+Paraphrasing Justin Townes Earle, I’ve had better jobs but the golf course still meant something to me. As my life folds into retirement like my dad’s, I’m still looking for that golf course job.
+
+Photo below is me at in the pro shop having fun with the sign. 
+![Pro Shop](/onwork/images/proshop.jpg)
